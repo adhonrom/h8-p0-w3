@@ -9,4 +9,4 @@ function balikString(kata){
 return result;
 }
 
-console.log(balikString('Hello World'));
+console.log(balikString('Hello World!'));
